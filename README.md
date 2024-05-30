@@ -14,7 +14,7 @@ HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learn
 
 <!-- **Authors:** -->
 
-_**Shengchao Hu<sup>1,2</sup>, Ziqing Fan<sup>1,2</sup>, Li Shen<sup>3,4\*</sup>, Ya Zhang<sup>1,2</sup>, Yanfeng Wang<sup>1,2</sup>, Dacheng Tao<sup>5</sup>**_
+_**Shengchao Hu<sup>1,2\*</sup>, Ziqing Fan<sup>1,2\*</sup>, Li Shen<sup>3,4</sup>, Ya Zhang<sup>1,2</sup>, Yanfeng Wang<sup>1,2</sup>, Dacheng Tao<sup>5</sup>**_
 
 
 <!-- **Affiliations:** -->
