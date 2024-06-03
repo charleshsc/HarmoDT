@@ -8,8 +8,8 @@ HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learn
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
 <img src="https://img.shields.io/badge/License-Apache_2.0-green.svg" alt="License">
 
-<h4> |<a href="https://arxiv.org/abs/2405.17098"> 📑 Paper </a> |
-<a href="https://github.com/charleshsc/QT"> 🐱 Github Repo </a> |
+<h4> |<a href="https://arxiv.org/abs/2405.18080"> 📑 Paper </a> |
+<a href="https://github.com/charleshsc/HarmoDT"> 🐱 Github Repo </a> |
 </h4>
 
 <!-- **Authors:** -->
@@ -68,4 +68,4 @@ If you find this work is relevant with your research or applications, please fee
 
 ## Acknowledgments
 
-This repo benefits from [DT](https://github.com/kzl/decision-transformer) and [Diffusion-QL](https://github.com/Zhendong-Wang/Diffusion-Policies-for-Offline-RL). Thanks for their wonderful works!
+This repo benefits from [DT](https://github.com/kzl/decision-transformer) and [MTDiff](https://github.com/tinnerhrhe/MTDiff). Thanks for their wonderful works!
